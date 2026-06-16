@@ -6,7 +6,6 @@
 - Redis — хранение состояния (counter)
 - Prometheus — сбор метрик
 - Grafana — визуализация метрик
-- Docker Compose — оркестрация сервисов
 
 ## Сервисы
 - Flask App	http://localhost:5000
